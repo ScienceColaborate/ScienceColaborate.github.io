@@ -1,0 +1,16 @@
+/* FILEPATH: /home/hector219/pj_Hackathon_NASA_Space_Apps_Challenges/ScienceColaborate.github.io/styles/style.css */
+
+/* Set the background color to a light purple */
+body {
+    background-color: #d8b6ff;
+}
+
+/* Add a dark purple border to all images */
+img {
+    border: 2px solid #6a0dad;
+}
+
+/* Add a purple hover effect to all links */
+a:hover {
+    color: #a200ff;
+}
