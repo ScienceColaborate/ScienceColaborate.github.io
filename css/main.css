@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  color: #E5CFF7;
+  width: 100%;
+  height: auto;
+  padding: 1px;
+  background-color: #713ABE;
+}
+header nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+header nav a {
+  background-color: #9D76C1;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #E5CFF7;
+}/*# sourceMappingURL=main.css.map */
